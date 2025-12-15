@@ -95,8 +95,7 @@ npm start
 
 ---
 
-## 🖥️ System Architecture  
-![Voicehat architecture (1)](https://github.com/user-attachments/assets/656b355b-d243-425d-be91-0c86d5a4e6f7)
-
+## 🖥️ System Architecture
+![Voicehat architecture](https://github.com/user-attachments/assets/2dbc8da7-8242-4092-ae9e-648ec7838a45)
 
 ---
