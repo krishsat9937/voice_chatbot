@@ -96,6 +96,8 @@ npm start
 ---
 
 ## 🖥️ System Architecture
+<img width="1199" height="514" alt="Screenshot 2025-06-25 at 2 12 29 AM" src="https://github.com/user-attachments/assets/9aafa0b3-c621-46a5-af5a-f8e802af7128" />
+
 ![Voicehat architecture](https://github.com/user-attachments/assets/2dbc8da7-8242-4092-ae9e-648ec7838a45)
 
 ---
